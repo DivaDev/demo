@@ -1,0 +1,44 @@
+[
+  {
+      "QuoteString": "It's the job that's never started as takes longest to finish.",
+      "DifficultyLevel": "Intermediate",
+      "PersonObj":{
+          "Name": "Samwise Gamgee",
+          "RaceType": "Hobbit"
+      }
+  },
+
+  {
+      "QuoteString": "I am no man!",
+      "DifficultyLevel": "Easy",
+      "PersonObj": {
+          "Name": "Eowyn",
+          "RaceType": "Human"
+      }
+  },
+  {
+      "QuoteString": "But I expect they had lots of chances, like us, of turning back, only they didn’t. And if they had, we shouldn’t know, because they’d have been forgotten.",
+      "DifficultyLevel": "Intermediate",
+      "PersonObj": {
+          "Name": "Samwise Gamgee",
+          "RaceType": "Hobbit"
+      }
+  },
+  {
+      "QuoteString": "Yet dawn is ever the hope of men",
+      "DifficultyLevel": "Intermediate",
+      "PersonObj": {
+          "Name": "Aragorn",
+          "RaceType": "Human"
+      }
+  },
+  {
+      "QuoteString": "You have shown your usual cunning in getting up just in time for a meal.",
+      "DifficultyLevel": "Expert",
+      "PersonObj": {
+          "Name": "Pippin",
+          "RaceType": "Hobbit"
+      }
+  }
+]
+
